@@ -1,4 +1,4 @@
-#💸 Monopoly Most Visited Square Calculator💸
+# 💸 Monopoly Most Visited Square Calculator💸
 
 # Table Of Contents
 - **[Installation](#installation)**
