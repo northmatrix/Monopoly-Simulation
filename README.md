@@ -1,16 +1,16 @@
-# Monopoly Most Visited Square Calculator
+#💸 Monopoly Most Visited Square Calculator💸
 
-## Table Of Contents
-- [Installation](#installation)
-- [Use](#use)
+# Table Of Contents
+- **[Installation](#installation)**
+- **[Use](#use)**
 
-## Installation
+# 🚀 Installation 🚀
 ```bash
 #Clone the repo
 git clone https://github.com/North004/Monopoly.git
 ```
 
-## Use
+# 🎮 Use 🎮
 ```bash
 #How to use
 cd Monopoly
